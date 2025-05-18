@@ -12,7 +12,7 @@
 
 <!-- Animated Interests -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Generative+AI;Agentic+AI;LangChain+%7C+RAG+%7C+LangGraph;Process+Optimization+with+AI;AI+Engineering+at+BMW&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Generative+AI;Agentic+AI;LangChain+%7C+RAG+%7C+LangGraph;Process+Optimization+with+AI;AI+Engineering&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <!-- Contact Badges -->
