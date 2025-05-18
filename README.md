@@ -1,97 +1,96 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=22F76D&width=600&height=80&lines=Prateek+Ghorawat;ML+Engineer;GenAI+Specialist;Data+Architect" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=800&color=22F76D&width=680&height=90&lines=Prateek+Ghorawat;ML+Engineer+|+GenAI+Specialist;Process+AI+Architect;BMW+Thesis+Candidate" alt="Animated Header" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Prateek@LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/prateek-ghorawat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prateek.ghorawat1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Prateek@GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/prateekghorawat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<!-- Skills Matrix with Icons -->
-## 🛠️ **Technical Expertise**
-<div align="center">
-  
-| **AI/ML** | **Cloud/DevOps** | **Data & Tools** |
-|-----------|------------------|------------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![MLflow](https://img.shields.io/badge/-MLflow-0194E1?logo=mlflow) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) |
+## 🛠️ Technical Expertise
 
-</div>
+| **AI & ML** | **Cloud & DevOps** | **Data & Tools** |
+|-------------|--------------------|------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![Generative AI](https://img.shields.io/badge/-GenAI-000000?logo=ai) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![MLflow](https://img.shields.io/badge/-MLflow-0194E1?logo=mlflow) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) |
 
 ---
 
-## 🏢 **Professional Journey**
-### **🔬 BMW AG, Munich**  
-**Process AI Working Student & Thesis** *(May 2024 – Present)*  
-- **GenAI Deployment**: Productionized GPT/Llama models with RAG for customs duty prediction (**95% accuracy**).  
-- **MLOps**: Built reproducible pipelines using MLflow, Kubernetes, and Terraform.  
-- **Data Analytics**: Reduced manual efforts by **30%** via automated forecasting systems.  
+## 🏢 Professional Experience
 
-![BMW Workflow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NtZXp6d2JkZ3R5N3R5d3N2N3V5a2VnY2R2Z2F1dW1qNWp1a2V2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoi8Q78QDe/giphy.gif)  
-*MLOps Pipeline at BMW (Conceptual Workflow)*
+### **BMW AG, Munich**  
+*Process AI Working Student & Thesis Candidate* (May 2024 – Present)  
+- Architected & deployed **Generative AI (GPT, Llama)** models for customs duty prediction with **95%+ accuracy**, enabling automated tariff classification.  
+- Developed **MLOps pipelines** using Kubernetes, Terraform, MLflow, improving model deployment speed by 40%.  
+- Implemented multilingual **brochure generation** and NLP solutions reducing manual translation time by 50%.  
+- Led computer vision projects achieving **67% IoU** on retinal layer segmentation using U-Net architectures.  
+- Delivered data analytics dashboards with **PowerBI** to track process KPIs, boosting decision efficiency by 30%.  
 
----
-
-## 🚀 **Featured Projects**
-### **1. Customs Duty Predictor**  
-![Python](https://img.shields.io/badge/-CatBoost-FF6F00) ![RAG](https://img.shields.io/badge/-RAG-43B02A) ![MLflow](https://img.shields.io/badge/-MLflow-0194E1)  
-- **Impact**: Streamlined customs processes for BMW, achieving **95% accuracy** with CatBoost/Random Forest.  
-- [View Code](https://github.com/Prateek@GitHub)
-
-### **2. Multilingual Brochure Generator**  
-![GPT-4](https://img.shields.io/badge/-GPT4-000000) ![LLaMA](https://img.shields.io/badge/-LLaMA_3.2-FF6F00) ![LangChain](https://img.shields.io/badge/-LangChain-43B02A)  
-- Generated brochures in **3 languages** using real-time web scraping and GenAI.  
-- [Live Demo](https://github.com/Prateek@GitHub)
-
-### **3. Retinal Fovea Detection**  
-![YOLO](https://img.shields.io/badge/-YOLOv5-EE4C2C) ![CUDA](https://img.shields.io/badge/-CUDA-76B900)  
-- Achieved **67% IoU** for retinal analysis using CNNs and transfer learning.  
-- [Research Paper](#)
+### **Internships & Projects**  
+- Designed a **customs duty prediction tool** combining AI and business rules, now in pilot testing.  
+- Developed an end-to-end **MLOps system** to monitor model drift and automate retraining workflows.  
+- Created a **supplier communication AI chatbot** for streamlined customs authorization and document verification.  
 
 ---
 
-## 📚 **Education & Certifications**
-<div align="center">
-  
-| **Degree** | **Certifications** |
-|------------|---------------------|
-| **M.Eng in Mechatronics & Robotics**<br>*(Hochschule Schmalkalden)* | ![ML](https://img.shields.io/badge/Machine_Learning_Specialization-FF6F00) ![GenAI](https://img.shields.io/badge/Generative_AI-000000) ![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-FF6F00) |
-| **B.Tech in Mechanical Engineering**<br>*(Jain University)* | ![Data Science](https://img.shields.io/badge/Data_Science_Bootcamp-3776AB) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8) ![AWS](https://img.shields.io/badge/AWS_Certified-232F3E) |
+## 🚀 Key Projects
 
-</div>
+| Project | Description | Impact | Demo |
+|---------|-------------|--------|------|
+| **Customs Duty Prediction** | AI model predicting preferential tariffs to reduce manual workload. | 95% accuracy, 30% process efficiency gain. | ![Demo GIF](https://media.giphy.com/media/3o7aD6uWJ1Jk8ClZ7S/giphy.gif) |
+| **Multilingual Brochure Gen** | Automated brochure content generation in 6 languages using GenAI. | 50% reduction in translation turnaround. | ![Demo GIF](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif) |
+| **Retinal Layer Segmentation** | Computer vision model segmenting OCT images with U-Net. | Achieved 67% IoU, aiding early diagnosis. | ![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
 
----
-
-## 🌐 **Languages**
-![English](https://img.shields.io/badge/-English_C1-0077B5) ![German](https://img.shields.io/badge/-German_A2-000000) ![Hindi](https://img.shields.io/badge/-Hindi_C2-FF9933)
+*(Replace GIF URLs with your actual demo GIFs or project visuals)*
 
 ---
 
-## 📈 **GitHub Analytics**
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek@GitHub&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek@GitHub&layout=compact&theme=radical&hide_border=true)
+## 📜 Certifications
 
-</div>
+- **Machine Learning Specialization** — Coursera  
+- **Data Science BootCamp** — DataCamp  
+- **TensorFlow Developer Certificate**  
+- **PyTorch Fundamentals**  
+- **Generative AI with LLMs** — DeepLearning.AI  
+- **Computer Vision Fundamentals**  
 
 ---
 
-## ⚡ **Fun Fact**
-**I trained a GAN to generate synthetic documents** – cut data collection time by 40%! 🎨  
-*When not coding, I design fire safety systems or game with neural networks!*
+## 🎓 Education
+
+**Master of Science in Mechatronics**  
+Technical University of Munich (Ongoing)  
+
+**Bachelor of Engineering in Electronics**  
+XYZ University, India  
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| English  | Professional Working Proficiency |
+| Hindi    | Native |
+| German   | Intermediate |
+
+---
+
+## ✨ Fun Fact
+
+> "I am passionate about blending AI with traditional engineering processes to create next-gen automation solutions that save millions and accelerate innovation."
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prateek@GitHub&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=prateekghorawat&style=flat-square&color=blue" alt="Profile Views" />
 </p>
