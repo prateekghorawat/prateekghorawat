@@ -88,7 +88,7 @@
 
 | Project | Description | Technologies | Code |
 |---------|-------------|--------------|------|
-| **Advanced Object Detection** | Fovea detection (67% IOU)<br>Visual search system (87% acc) | `YOLO` `CNN` `OpenCV` `CUDA` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](your-link) |
+| **Advanced Object Detection** | Fovea detection (67% IOU)<br>Visual search system (87% acc) | `YOLO` `CNN` `OpenCV` `CUDA` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Computer-Vision-Projects) |
 | **Image Generation Pipeline** | Synthetic data creation<br>Stable Diffusion + CGAN integration | `GAN` `PyTorch` `Stable Diffusion` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](your-link) |
 | **Multilingual Brochure System** | Web scraping + LLM content generation<br>Real-time multilingual translation | `LLaMA` `GPT-4` `BeautifulSoup` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](your-link) |
 | **MLOps Framework** | End-to-end ML pipelines<br>Cloud deployment at scale | `MLflow` `Kubernetes` `AWS` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](your-link) |
