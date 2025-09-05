@@ -92,8 +92,8 @@
 | **Image Generation Pipeline** | Synthetic data creation<br>Stable Diffusion + CGAN integration | `GAN` `PyTorch` `Stable Diffusion` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Generative-AI/tree/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main) |
 | **Multilingual Brochure System** | Web scraping + LLM content generation<br>Real-time multilingual translation | `LLaMA` `GPT-4` `BeautifulSoup` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Generative-AI/tree/main/AD_Generation) |
 | **MLOps Framework** | End-to-end ML pipelines<br>Cloud deployment at scale | `MLflow` `Kubernetes` `AWS` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/MLOps) |
-| **Structured Data Projects** | Machine learning with tabular data<br>Classification & regression tasks | `Scikit-learn` `Pandas` `NumPy` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-3-structured-data-projects) |
-| **Unstructured Data Projects** | Computer vision & NLP projects<br>Image and text processing | `TensorFlow` `OpenCV` `NLTK` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-4-unstructured-data-projects) |
+| **Structured Data Projects** | Machine learning with tabular data<br>Classification & regression tasks | `Scikit-learn` `Pandas` `NumPy` | [![Code]() |
+| **Unstructured Data Projects** | Computer vision & NLP projects<br>Image and text processing | `TensorFlow` `OpenCV` `NLTK` | [![Code]() |
 ## 🌐 Let's Connect!
 
 <p align="center">
