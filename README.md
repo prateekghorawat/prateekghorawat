@@ -76,9 +76,8 @@
 | 🏢 **Company and Designation**      | 📅 **Timeline**     | 🛠 **Technologies**       | 🏆 **Key Contributions** |
 |---------------------|---------------------|---------------------------|--------------------------|
 | **👨💻 Lacritz AI: Intern** | May 2023 - Jul 2023 | `BERT` `GAN` `AWS`        | Built NLP pipelines for chatbots<br>Developed document filtering system |
-| **🤖 BMW AG: Intern**     | Apr 2024 - Oct 2024 | `GPT-4` `PyTorch` `Azure` | Integrated AI tools into workflows<br>Created CO₂ prediction models |
-| **🎓 BMW AG: Master Thesis** | Oct 2024 - Mar 2025 | `LangChain` `Businees Insights` `QLoRA`       | Customs prediction system (95% acc)<br>Multi-agent RAG implementation |
-| **🏭 BMW AG: Working Student**  | May 2024 - Present  | `MLflow` `Prediction Builder`       | Automated reporting system<br>Production model deployment |
+| **🤖 BMW AG: AI Engineer (Intern + Working Student + Thesis)**     | Apr 2024 - Mar 2025 | `GPT-4` `PyTorch` `LangChain` `MLflow` | Integrated AI into business workflows<br>Built CO₂ prediction models<br>Developed customs prediction system (~95% acc)<br>Implemented multi-agent RAG systems<br>Deployed production-ready ML pipelines |
+| **⚡ Celonis: Product Strategy & Operations (AI/ML)** | Nov 2025 - Apr 2026 | `Process Mining` `Python` `Scikit-learn` `Analytics` | Built ML models for supplier preference prediction<br>Created synthetic datasets (~100k rows) for simulation<br>Designed end-to-end ML pipelines with validation strategy<br>Translated ML outputs into business insights |
 
 </div>
 
@@ -94,6 +93,9 @@
 | **MLOps Framework** | End-to-end ML pipelines<br>Cloud deployment at scale | `MLflow` `Kubernetes` `AWS` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/MLOps) |
 | **Structured Data Projects** | Machine learning with tabular data<br>Classification & regression tasks | `Scikit-learn` `Pandas` `NumPy` | [![Code]() |
 | **Unstructured Data Projects** | Computer vision & NLP projects<br>Image and text processing | `TensorFlow` `OpenCV` `NLTK` | [![Code]() |
+
+---
+
 ## 🌐 Let's Connect!
 
 <p align="center">
