@@ -2,104 +2,83 @@
 <h1 align="center">👋 Hi, I'm Prateek Ghorawat</h1>
 
 <p align="center">
-  <b><i>Machine Learning Engineer</i></b> • 
-  <b><i>Generative AI Specialist</i></b> • 
-  <b><i>Agentic AI Enthusiast</i></b> • 
-  <b><i>Process AI</i></b> • 
-  <b><i>Data Analyst</i></b> • 
-  <b><i>Data Science</i></b> • 
+  <b><i>AI / ML Engineer</i></b> • 
+  <b><i>Generative AI & Agentic Systems</i></b> • 
+  <b><i>Process Intelligence & Analytics</i></b> • 
+  <b><i>MLOps & Data Engineering</i></b>
 </p>
 
 <!-- Animated Interests -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Generative+AI;Agentic+AI;LangChain+%7C+RAG+%7C+LangGraph;Process+Optimization+with+AI;AI+Engineering&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</p>
-
-<!-- Contact Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/prateek-ghorawat">
-    <img src="https://img.shields.io/badge/LinkedIn-Prateek_Ghorawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/prateekghorawat">
-    <img src="https://img.shields.io/badge/GitHub-prateek--ghorawat-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:prateek.ghorawat1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prateek.ghorawat1999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+4917677872804">
-    <img src="https://img.shields.io/badge/Phone-%2B49%2017677872804-4CAF50?style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Generative+AI;Agentic+AI+Systems;LangChain+%7C+RAG+%7C+MCP;Process+Intelligence;AI+Engineering&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-<!-- AI-Themed GIF -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE5NmZiYzBxem92Zng3ODNjNGV4ejZoMXJ0YWVnanQwenNvc2c3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" width="400" alt="AI Innovation">
-</p>
+## 🧠 What I Do
+
+- Build **production-grade ML & AI systems** (95%+ accuracy, real datasets)
+- Design **Agentic AI systems (LangChain, MCP, multi-agent workflows)**
+- Translate **data → insights → business decisions**
+- Work across **ML, Data Engineering, and Product Analytics**
 
 ---
 
-## 🧠 Skills & Expertise
-
-| **Machine Learning & AI**                                   | **Languages & Tools**                                         | **Cloud & DevOps**                             | **Databases & Data**                                 |
-|-------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------|
-| ![ML](https://img.shields.io/badge/Machine%20Learning-0078D7?style=for-the-badge&logo=tensorflow&logoColor=white) ![AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-0A66C2?style=for-the-badge&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) |
-
-| **Frameworks & Libraries**                                   | **AI Engineering & Concepts**                                 | **Data Visualization & BI**                     |
-|-------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-5519B2?style=for-the-badge&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge&logo=azure&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6F42C1?style=for-the-badge&logo=github&logoColor=white) | ![Celonis](https://img.shields.io/badge/Celonis-0173C6?style=for-the-badge&logo=celonis&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) |
-
----
-## 📜 Certifications
+## 🗂️ Experience
 
 <div align="center">
 
-**Machine Learning Specialization** &nbsp;&nbsp; | &nbsp;&nbsp;
-**Data Science BootCamp** &nbsp;&nbsp; | &nbsp;&nbsp;
-**Power BI** &nbsp;&nbsp; | &nbsp;&nbsp;
-**TensorFlow Developer** &nbsp;&nbsp; | &nbsp;&nbsp;
-**PyTorch Developer** &nbsp;&nbsp; | &nbsp;&nbsp;
-**Generative AI** &nbsp;&nbsp; | &nbsp;&nbsp;
-**Computer Vision** &nbsp;&nbsp; | &nbsp;&nbsp;
-**SQL and Databases Bootcamp** &nbsp;&nbsp; | &nbsp;&nbsp;
-**Agentic AI Engineering Course**
+| 🏢 Company | 📅 Timeline | 🛠 Focus | 🏆 Impact |
+|-----------|------------|----------|----------|
+| **⚡ Celonis – AI & Product Strategy** | Oct 2025 – Mar 2026 | Process Mining, ML, Analytics | Built ML pipelines on 1000+ feature datasets<br>Reduced decision latency by 50%<br>Improved model accuracy by 25% (Transformers)<br>Automated KPI analysis with LLMs (↓80% manual effort)<br>Deployed CI/CD ML pipelines |
+| **🚗 BMW Group – AI / ML Engineer (Agentic Systems)** | Apr 2024 – Oct 2025 | ML, GenAI, Process AI | Built anomaly & risk models (95% accuracy)<br>Developed multi-agent RAG systems<br>Automated GenAI workflows (↓60% insight time)<br>Designed KPI simulations & analytics systems<br>Production ML pipelines + evaluation |
+| **🏭 Johnson Controls – Engineering & Analytics** | Oct 2021 – Dec 2022 | Automation, Data Analysis | Built automation tools (↓20% manual work)<br>Improved data reliability & delivery speed |
+| **👨‍💻 Lacritz AI – ML Engineer Intern** | May 2023 – Jul 2023 | NLP, AWS | Built BERT models (↑85% accuracy)<br>Reduced latency by 30% in ML workflows |
 
 </div>
 
 ---
 
-## 🗂️ Experience Timeline
+## 🚀 Selected Projects (High Impact Only)
 
-<div align="center">
-
-| 🏢 **Company and Designation**      | 📅 **Timeline**     | 🛠 **Technologies**       | 🏆 **Key Contributions** |
-|---------------------|---------------------|---------------------------|--------------------------|
-| **👨💻 Lacritz AI: Intern** | May 2023 - Jul 2023 | `BERT` `GAN` `AWS`        | Built NLP pipelines for chatbots<br>Developed document filtering system |
-| **🤖 BMW AG: AI Engineer (Intern + Working Student + Thesis)**     | Apr 2024 - Mar 2025 | `GPT-4` `PyTorch` `LangChain` `MLflow` | Integrated AI into business workflows<br>Built CO₂ prediction models<br>Developed customs prediction system (~95% acc)<br>Implemented multi-agent RAG systems<br>Deployed production-ready ML pipelines |
-| **⚡ Celonis: Product Strategy & Operations (AI/ML)** | Nov 2025 - Apr 2026 | `Process Mining` `Python` `Scikit-learn` `Analytics` | Built ML models for supplier preference prediction<br>Created synthetic datasets (~100k rows) for simulation<br>Designed end-to-end ML pipelines with validation strategy<br>Translated ML outputs into business insights |
-
-</div>
+| Project | What Makes It Strong | Tech |
+|--------|--------------------|------|
+| **Multi-Agent LLM System (BMW)** | Designed agent-based system for reasoning, coordination & tool usage across workflows | `LangChain` `MCP` `LLMs` `Python` |
+| **AI Prediction System for Trade / Customs** | End-to-end ML pipeline (95% accuracy) with real-world business impact | `Scikit-learn` `Feature Engineering` |
+| **Sales Data Warehouse (Bronze-Silver-Gold)** | Built scalable data pipeline with 50% faster queries | `SQL` `ETL` `Power BI` |
+| **LLM Automation for KPI Analysis** | Reduced analysis time by 80% using GenAI pipelines | `LangChain` `Python` |
 
 ---
 
-## 🚀 Projects
+## 🧰 Tech Stack
 
-| Project | Description | Technologies | Code |
-|---------|-------------|--------------|------|
-| **Advanced Object Detection** | Fovea detection (67% IOU)<br>Visual search system (87% acc) | `YOLO` `CNN` `OpenCV` `CUDA` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Computer-Vision-Projects/tree/main/Location_of_Flovea-main) |
-| **Image Generation Pipeline** | Synthetic data creation<br>Stable Diffusion + CGAN integration | `GAN` `PyTorch` `Stable Diffusion` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Generative-AI/tree/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main) |
-| **Multilingual Brochure System** | Web scraping + LLM content generation<br>Real-time multilingual translation | `LLaMA` `GPT-4` `BeautifulSoup` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/Generative-AI/tree/main/AD_Generation) |
-| **MLOps Framework** | End-to-end ML pipelines<br>Cloud deployment at scale | `MLflow` `Kubernetes` `AWS` | [![Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/prateekghorawat/MLOps) |
-| **Structured Data Projects** | Machine learning with tabular data<br>Classification & regression tasks | `Scikit-learn` `Pandas` `NumPy` | [![Code]() |
-| **Unstructured Data Projects** | Computer vision & NLP projects<br>Image and text processing | `TensorFlow` `OpenCV` `NLTK` | [![Code]() |
+**AI / ML:**  
+`PyTorch` `Scikit-learn` `Transformers` `TensorFlow`
+
+**GenAI / Agentic AI:**  
+`LangChain` `RAG` `MCP` `LLM Systems`
+
+**Data & Backend:**  
+`Python` `SQL` `Pandas` `ETL Pipelines`
+
+**Cloud & Tools:**  
+`AWS` `Docker` `GitHub Actions` `Power BI` `Celonis`
 
 ---
 
-## 🌐 Let's Connect!
+## 🎯 What Sets Me Apart
+
+- I don’t just build models → I **deploy and connect them to business impact**
+- Strong in **both ML + Data + Product thinking** (rare combo)
+- Experience with **real enterprise systems (BMW, Celonis)** — not just projects
+- Comfortable explaining systems to **engineers AND business stakeholders**
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Connect GIF" />
+  <a href="https://linkedin.com/in/prateek-ghorawat">LinkedIn</a> •
+  <a href="https://github.com/prateekghorawat">GitHub</a> •
+  <a href="mailto:prateek.ghorawat1999@gmail.com">Email</a>
 </p>
-
----
